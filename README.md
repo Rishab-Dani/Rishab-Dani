@@ -2,10 +2,9 @@
 **A passionate Full Stack Developer || Java Developer || Mobile  App Developer**
 
 Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** retail-shop-digitalization          
+<!--- 🔭 **I’m currently working on:** retail-shop-digitalization          
 - 🌱 **I’m currently learning:** Spring Boot and flutter
-- 👯 **I’m looking to collaborate on:** retail-shop-digitalization   
+- 👯 **I’m looking to collaborate on:** retail-shop-digitalization  --> 
 <!-- - 🤔 **I’m looking for help with:** Full Stack Job
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rishabdanii@gmail.com
