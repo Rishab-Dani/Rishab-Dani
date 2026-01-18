@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 - 🤔 **I’m looking for help with:** Full Stack Job
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rishabdanii@gmail.com
-- 😄 **Pronouns:** Rishi
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me 
   
 ## 🌐 Socials:
