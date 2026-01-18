@@ -108,8 +108,8 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishab-dani&theme=merko&radius=10" alt="Rishab-Dani's Activity Graph" />
 </p>
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rishab-Dani&theme=dark&no-frame=false&no-bg=true&margin-w=4) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rishab-Dani&theme=dark&no-frame=false&no-bg=true&margin-w=4) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
