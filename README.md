@@ -20,7 +20,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
   
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=John-Ravi934">
-    <img src="https://komarev.com/ghpvc/?username=John-Ravi934&label=Profile%20views&color=00FFFF&style=flat-square" alt="John-Ravi934's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Rishab-Dani&label=Profile%20views&color=00FFFF&style=flat-square" alt="Rishab-dani's profile views" />
   </a>
 </p>
 
