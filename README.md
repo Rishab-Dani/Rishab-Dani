@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rishab 
-**A passionate Full Stack Developer || Java Developer || Mobile  App Developer**
+**A passionate Full Stack Developer || Java Developer || Mobile App Developer**
 
 Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** retail-shop-digitalization          
