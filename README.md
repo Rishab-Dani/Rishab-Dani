@@ -92,7 +92,9 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 # 🚀 My GitHub Space Shooter:
 
 <div align="center">
+  
 ![GitHub Space Shooter](space-shooter.gif)
+
 </div>
 
 # 🐍 Snake Game Repo View:
