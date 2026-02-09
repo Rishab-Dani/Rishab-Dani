@@ -111,9 +111,10 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 <div align="center">
   
-![Pong Game](pong.svg)
+![GitHub Pong Game](pong.svg)
 
 </div>
+
 # 📊 GitHub Stats:
 
  <!--![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabDani&show_icons=true)
