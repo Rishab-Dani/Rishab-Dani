@@ -88,9 +88,12 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
 </div>
+
 # 🚀 My GitHub Space Shooter:
 
+<div align="center">
 ![GitHub Space Shooter](space-shooter.gif)
+</div>
 
 # 🐍 Snake Game Repo View:
 
