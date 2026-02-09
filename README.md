@@ -95,7 +95,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/github-snake.svg">
 </picture>
 
-![GitHub Snake](https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/github-snake.svg)
+<!--![GitHub Snake](https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/github-snake.svg) -->
 
 # 📊 GitHub Stats:
 
