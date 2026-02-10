@@ -107,18 +107,13 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 </picture>
 </div>
 
-## 🏓 GitHub Pong
+# 🏓Pong Game Repo View:
 
 <div align="center">
-  
-<!-- ![GitHub Pong Game](breakout-dark.svg) -->
 
 <picture>
   
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/main/assets/breakout-dark.svg/dark.svg">
- <!--   <source media="(prefers-color-scheme: dark)" srcset="assets/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/breakout-light.svg"> 
-  <img alt="GitHub Breakout Game" src="assets/breakout-dark.svg"> -->
    <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/main/assets/breakout-dark.svg/dark.svg">
   
 </picture>
