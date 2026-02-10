@@ -111,7 +111,13 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 <div align="center">
   
-![GitHub Pong Game](pong.svg)
+![GitHub Pong Game](breakout-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/breakout-light.svg">
+  <img alt="GitHub Breakout Game" src="assets/breakout-light.svg">
+</picture>
+
 
 </div>
 
