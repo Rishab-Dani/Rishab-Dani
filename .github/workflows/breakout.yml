@@ -2,7 +2,7 @@ name: GitHub Breakout Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,8 +11,13 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate GitHub Breakout
+     
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Breakout (dark)
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
