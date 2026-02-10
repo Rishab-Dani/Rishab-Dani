@@ -84,7 +84,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-<!--  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" /> -->
+<!--   -->
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
 </div>
@@ -114,6 +114,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 <picture>
   
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/main/assets/breakout-dark.svg/dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/main/assets/breakout-dark.svg/light.svg" />
    <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/main/assets/breakout-dark.svg/dark.svg">
   
 </picture>
