@@ -1,4 +1,4 @@
-name: Pac-Man 
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
@@ -19,10 +19,11 @@ jobs:
       - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Rishab-Dani
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: assets/pacman.svg
+          publish_dir: ./output
+          publish_branch: output
