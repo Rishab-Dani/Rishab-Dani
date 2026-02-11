@@ -1,4 +1,4 @@
-name: Generate Pac-Man Contribution Graph
+name: Pac-Man Game
 
 on:
   schedule:
@@ -25,5 +25,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
-          publish_branch: output
+          filename: pacman.svg
+          publish_branch: main
