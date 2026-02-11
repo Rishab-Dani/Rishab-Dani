@@ -113,6 +113,13 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 [View Interactive 3D Model](assets/skyline.stl)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/pacman-contribution-graph.svg">
+</picture>
+
+
 # 📊 GitHub Stats:
 
 <!--![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabDani&show_icons=true)
