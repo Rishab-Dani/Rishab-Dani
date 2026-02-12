@@ -124,6 +124,13 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg">
 </picture>
 
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg" 
+    width="750"
+    style="filter: drop-shadow(0 0 6px #00f0ff) drop-shadow(0 0 12px #00f0ff);"
+  />
+</div>
 
 
 # 📊 GitHub Stats:
