@@ -88,6 +88,15 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 </div>
 
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
+  <img 
+    src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg" 
+    width="750"
+    style="filter: drop-shadow(0 0 8px #4cc9f0);"
+  />
+</div>
+
+
 # 🐍 Snake Game Repo View:
 
 <div align="center">
