@@ -110,8 +110,9 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 ## 🏙️ GitHub Skyline (3D Contributions)
 
+<div align="center">
 [View Interactive 3D Model](assets/skyline.stl)
-
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/pacman-contribution-graph-dark.svg">
