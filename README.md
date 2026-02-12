@@ -88,15 +88,6 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 </div>
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:12px;">
-  <img 
-    src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg" 
-    width="750"
-    style="filter: drop-shadow(0 0 8px #4cc9f0);"
-  />
-</div>
-
-
 # 🐍 Snake Game Repo View:
 
 <div align="center">
@@ -132,15 +123,6 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/pacman-contribution-graph.svg"> -->
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg">
 </picture>
-
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg" 
-    width="750"
-    style="filter: drop-shadow(0 0 6px #00f0ff) drop-shadow(0 0 12px #00f0ff);"
-  />
-</div>
-
 
 # 📊 GitHub Stats:
 
