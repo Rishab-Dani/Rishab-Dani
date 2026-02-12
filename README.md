@@ -108,7 +108,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 </picture>
 </div>
 
-## 🏙️ GitHub Skyline (3D Contributions)
+# 🏙️ GitHub Skyline (3D Contributions)
 
 <div align="center">
   
@@ -117,6 +117,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 </div>
 
 # 👾 Pacman Game
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg">
  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/pacman-contribution-graph.svg"> -->
