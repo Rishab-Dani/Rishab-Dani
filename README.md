@@ -134,14 +134,14 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 # 📊 GitHub Stats:
 
-<!--![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabDani&show_icons=true)
+![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabDani&show_icons=true)
 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Rishab-Dani&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
- <source
+<!-- <source
     srcset="https://github-readme-stats.vercel.app/api?username=Rishab-Dani&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
