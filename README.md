@@ -22,16 +22,6 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:** rishabdanii@gmail.com
 - 😄 **Pronouns:** Rishi
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
-<p align="center">
-<code>
-$ boot --backend-system<br>
-> Loading Spring Context...<br>
-> Connecting PostgreSQL...<br>
-> JWT Authentication Initialized...<br>
-> System Ready █
-</code>
-</p>
   
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishab-Dani)
