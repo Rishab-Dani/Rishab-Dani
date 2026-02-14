@@ -9,6 +9,9 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=header&text=&fontColor=00ff00" />
+</p>
 
 <p align="center">
   <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
