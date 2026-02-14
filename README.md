@@ -21,6 +21,9 @@
   />
 </h1>
 
+<p align="center">
+  <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
+</p>
 
 **A passionate Full Stack Developer || Java Developer || Mobile App Developer**
 
