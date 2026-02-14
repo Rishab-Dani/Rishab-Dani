@@ -15,6 +15,11 @@
   />
 </h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishab-Dani&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+
 
 <p align="center">
   <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
