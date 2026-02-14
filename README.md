@@ -15,6 +15,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Rishab+Dani;Backend+Developer" />
 </p>
 
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Rishab+Dani;Backend+Systems+Architect;Spring+Boot+%7C+PostgreSQL+%7C+JWT;Code.+Break.+Rebuild.+Repeat.;Welcome+to+My+Cyber+Space+🌌" 
+  />
+</h1>
+
 
 **A passionate Full Stack Developer || Java Developer || Mobile App Developer**
 
