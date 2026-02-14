@@ -5,12 +5,6 @@
   />
 </h1>
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Rishab;Building+Scalable+Backend+Systems;Spring+Boot+%7C+PostgreSQL+%7C+JWT;Always+Learning+Something+New+🌌" 
-  />
-</h1>
-
 <p align="center">
   <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
 </p>
