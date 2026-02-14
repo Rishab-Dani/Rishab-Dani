@@ -11,6 +11,10 @@
   />
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Rishab+Dani;Backend+Developer" />
+</p>
+
 
 **A passionate Full Stack Developer || Java Developer || Mobile App Developer**
 
