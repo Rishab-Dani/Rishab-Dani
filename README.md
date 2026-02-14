@@ -25,8 +25,6 @@
   <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
 </p>
 
-**A passionate Full Stack Developer || Java Developer || Mobile App Developer**
-
 Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anything Else. 😊😅
 - 🔭 **I’m currently working on:** retail-shop-digitalization          
 - 🌱 **I’m currently learning:** Spring Boot and flutter
