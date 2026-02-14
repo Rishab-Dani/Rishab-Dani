@@ -9,18 +9,6 @@
   />
 </h1>
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=600&color=00FF00&center=true&vCenter=true&width=750&lines=Rishab+Dani_;Backend+Systems+Engineer_;Spring+Boot+Specialist_"
-  />
-</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishab-Dani&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-
-
 <p align="center">
   <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
 </p>
