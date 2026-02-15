@@ -89,7 +89,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
   <img width="12" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo" />
 </div>
 
 # 🚀 My GitHub Space Shooter:
