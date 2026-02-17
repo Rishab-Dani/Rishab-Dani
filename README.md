@@ -85,7 +85,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
   <img width="12"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" height="60" alt="hibernate logo"  />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="60" alt="hibernate logo"/>
   <img width="12"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
   <img width="12"/>
