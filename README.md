@@ -168,7 +168,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
     srcset="https://github-readme-stats.vercel.app/api?username=Rishab-Dani&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> -->
-   <img src="https://github-readme-stats.vercel.app/api?username=Rishab-Dani&show_icons=true" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Rishab-Dani&show_icons=true" /> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishab-dani&exclude_repo=github-readme-stats,rishab-dani.github.io) -->
 
