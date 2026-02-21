@@ -92,7 +92,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"/>
 </div>
 
-# 🚀 My GitHub Space Shooter:
+# 🚀 Space Shooter:
 
 <div align="center">
   
