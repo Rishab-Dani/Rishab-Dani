@@ -110,7 +110,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 </picture>
 </div>
 
-# 🏓Pong Game Repo View:
+# 🏓Pong Game:
 
 <div align="center">
 <picture>
