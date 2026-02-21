@@ -128,7 +128,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 </div>
 
-# 👾 Pacman Game
+# 👾 Pacman Game:
 
 <!--<picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg">
