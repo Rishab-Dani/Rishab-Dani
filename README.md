@@ -100,7 +100,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 </div>
 
-# 🐍 Snake Game Repo View:
+# 🐍 Snake Game:
 
 <div align="center">
 <picture>
