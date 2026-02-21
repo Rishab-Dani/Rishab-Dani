@@ -120,7 +120,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 </picture>
 </div>
 
-# 🏙️ GitHub Skyline (3D)
+# 🏙️ GitHub Skyline (3D):
 
 <div align="center">
   
