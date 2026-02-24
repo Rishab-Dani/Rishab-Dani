@@ -154,17 +154,6 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 ![](https://github-readme-stats.vercel.app/api?username=Rishab-Dani&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rishab-Dani&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-Dani&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rishab-Dani&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Rishab-Dani&icon=10&color=1)](https://visitcount.itsvg.in)
-
 
  <!--![Rishab's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabDani&show_icons=true) -->
 
