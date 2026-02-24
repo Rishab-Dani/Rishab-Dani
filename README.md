@@ -160,7 +160,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-profile-trophy.vercel.app/?username=Rishab-Dani&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rishab-Dani&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rishab-Dani&icon=10&color=1)](https://visitcount.itsvg.in)
@@ -216,7 +216,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 
 # 🔝 Top Contributed Repo:
 
-![](https://github-contributor-stats.vercel.app/api?username=Rishab-Dani&limit=7&theme=ocean_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Rishab-Dani&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Rishab-Dani&icon=0&color=13)](https://visitcount.itsvg.in)
 
