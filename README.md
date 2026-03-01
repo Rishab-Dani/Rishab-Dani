@@ -55,7 +55,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
    <img width="12"/>
    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"/>
-  <img width="12"/>
+   <img width="12"/>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"/>
