@@ -3,7 +3,7 @@
 </p>-->
 
  <h1 align="center">
-  <img 
+ <img 
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Rishab;Java+Developer;Spring+Boot+Backend+Engineer;Full+Stack+Developer;Flutter+Developer;Code.+Break.+Rebuild.+Repeat." 
     alt="Typing SVG" 
   />
