@@ -8,7 +8,7 @@ alt="Typing.... SVG" />
 </h1>
 
 <p align="center">
-  <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
+<code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
 </p>
 
 Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anything Else. 😊😅
