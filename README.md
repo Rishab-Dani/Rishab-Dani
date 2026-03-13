@@ -85,7 +85,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
     <img width="12"/>
     <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="60" alt="netlify logo"/>
     <img width="12"/>
-   <img src="https://cdn.simpleicons.org/replit/F26207" height="60" alt="replit logo"/>
+    <img src="https://cdn.simpleicons.org/replit/F26207" height="60" alt="replit logo"/>
    <img width="12"/>
    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
    <img width="12"/>
