@@ -110,7 +110,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/github-snake-dark.svg">
 <!--  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishab-Dani/<repo-name>/output/github-snake.svg"> -->
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/github-snake-dark.svg">
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/output/github-snake-dark.svg">
 </picture>
 </div>
 
