@@ -141,7 +141,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
 </picture> -->
 
 <div align="center">
-  <img 
+<img 
   src="https://raw.githubusercontent.com/Rishab-Dani/Rishab-Dani/pacman/pacman-contribution-graph-dark.svg" 
     width="800"
   />
