@@ -69,7 +69,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"/>
     <img width="12"/>
-    <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"/>
+     <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"/>
      <img width="12"/>
      <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"/>
      <img width="12"/>
