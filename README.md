@@ -60,7 +60,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
     <img width="12"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"/>
     <img width="12"/>
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65"/>
+     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"/>
      <img width="12"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"/>
