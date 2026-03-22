@@ -66,7 +66,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"/>
-    <img width="12"/>
+     <img width="12"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"/>
      <img width="12"/>
      <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"/>
