@@ -3,7 +3,8 @@
 </p>-->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Rishab;Java+Developer;Spring+Boot+Backend+Engineer;Full+Stack+Developer;Flutter+Developer;Code.+Break.+Rebuild.+Repeat." 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=38B
+  DF8&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Rishab;Java+Developer;Spring+Boot+Backend+Engineer;Full+Stack+Developer;Flutter+Developer;Code.+Break.+Rebuild.+Repeat." 
 alt="Typing.... SVG" />
 </h1>
 
@@ -54,7 +55,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"/>
       <img width="12"/>
-     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65"/>
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65"/>
      <img width="12"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"/>
      <img width="12"/>
