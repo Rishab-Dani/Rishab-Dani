@@ -73,7 +73,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
       <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"/>
       <img width="12"/>
       <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"/>
-     <img width="12"/>
+      <img width="12"/>
      <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"/>
      <img width="12"/>
      <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"/>
