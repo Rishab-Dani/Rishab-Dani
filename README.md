@@ -79,7 +79,7 @@ Email Me 👉 ✉️ **rishabdanii@gmail.com** For Collaboration/Project or Anyt
       <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"/>
       <img width="12"/>
       <img src="https://cdn.simpleicons.org/spring/6DB33F" height="60" alt="spring logo"/>
-     <img width="12"/>
+      <img width="12"/>
      <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"/>
      <img width="12"/>
      <img src="https://cdn.simpleicons.org/jenkins/D24939" height="60" alt="jenkins logo"/>
