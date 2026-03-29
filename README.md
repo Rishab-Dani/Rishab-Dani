@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=header&text=&fontColor=00ff00" />
 </p>-->
 
-<h1 align="center">
+<!--<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=38B
   DF8&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Rishab;Java+Developer;Spring+Boot+Backend+Engineer;Full+Stack+Developer;Flutter+Developer;Code.+Break.+Rebuild.+Repeat." 
 alt="Typing.... SVG" /></a>
-</h1>
+</h1> -->
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&weight=800&size=35&pause=900&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Rishab;Java+Developer;Spring+Boot+Backend+Engineer;Full+Stack+Developer;Flutter+Developer;Code.+Break.+Rebuild.+Repeat." alt="Typing SVG" /></a>
