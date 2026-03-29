@@ -8,6 +8,8 @@
 alt="Typing.... SVG" />
 </h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&weight=800&size=35&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+
 <p align="center">
 <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
 </p>
