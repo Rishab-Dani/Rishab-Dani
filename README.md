@@ -8,7 +8,9 @@
 alt="Typing.... SVG" /></a>
 </h1>
 
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&weight=800&size=35&pause=1000&width=435&lines=Hi+👋+I'm+Rishab;Java+Developer;Spring+Boot+Backend+Engineer;Full+Stack+Developer;Flutter+Developer;Code.+Break.+Rebuild.+Repeat." alt="Typing SVG" /></a>
+</h1>
 
 <p align="center">
 <code>Java | Spring Boot | Microservices | PostgreSQL | REST APIs | Security</code>
